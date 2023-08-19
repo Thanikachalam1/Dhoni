@@ -19,7 +19,7 @@ body{
   background-repeat: no-repeat;
   background-attachment:fixed;
   background-color: #3e456b;
-  background-image: url('/images/images.jpeg');
+  background-image: url('/images.jpeg');
   background-blend-mode:multiply;
   display: flex;
   justify-content:center;
